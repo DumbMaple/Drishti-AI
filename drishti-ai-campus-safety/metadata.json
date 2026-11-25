@@ -1,0 +1,8 @@
+{
+  "name": "Drishti AI - Campus Safety & Surveillance",
+  "description": "Real-time AI vision operations center for campus surveillance, fall detection, crowd monitoring, and 3D digital twin spatial intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
